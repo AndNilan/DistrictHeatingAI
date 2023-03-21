@@ -7,17 +7,12 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Building AI to control and manage the heating system in an apartment building. The building consists of 12 apartments and is heated with rock heat and backup using ditrict heating. To optimize the heating the AI takes in effect the weather, hourly rate and indoor temperature to manage the heating curve.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+There are two major problems the AI solves. One is the cost of warming up 12 apartments, especially during the cold winters i Sweden. But by using forecast predictions and AI based optimization of the heating pump. The cost will be reduced significantly. The last problem is keeping the indoor climate on a steady temperature. Due to uneven indoor climate based on wheather changes. The temperature indoor temperature goes up and down drasticly in periods. erspecially during spring and fall. By using indoor temp sensors and making the AI manage the heating pump with reference to the sensors. The indoor climate will be steady. 
 
 
 ## How is it used?
